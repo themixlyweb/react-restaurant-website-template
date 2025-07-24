@@ -1,0 +1,105 @@
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. */
+
+@layer base {
+  :root {
+    --background: 20 14% 4%;
+    --foreground: 34 20% 95%;
+
+    --card: 20 14% 6%;
+    --card-foreground: 34 20% 95%;
+
+    --popover: 20 14% 6%;
+    --popover-foreground: 34 20% 95%;
+
+    --primary: 31 41% 55%;
+    --primary-foreground: 20 14% 4%;
+
+    --secondary: 32 14% 84%;
+    --secondary-foreground: 20 14% 4%;
+
+    --muted: 20 14% 10%;
+    --muted-foreground: 34 20% 65%;
+
+    --accent: 32 25% 25%;
+    --accent-foreground: 34 20% 95%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 20 14% 15%;
+    --input: 20 14% 15%;
+    --ring: 31 41% 55%;
+
+    --radius: 0.5rem;
+  }
+
+  .light {
+    --background: 34 30% 98%;
+    --foreground: 20 14% 4%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 20 14% 4%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 20 14% 4%;
+
+    --primary: 31 41% 45%;
+    --primary-foreground: 34 30% 98%;
+
+    --secondary: 32 25% 90%;
+    --secondary-foreground: 20 14% 4%;
+
+    --muted: 32 25% 95%;
+    --muted-foreground: 20 14% 45%;
+
+    --accent: 32 25% 88%;
+    --accent-foreground: 20 14% 4%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 32 25% 85%;
+    --input: 32 25% 85%;
+    --ring: 31 41% 45%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-inter;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-playfair;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .hero-gradient {
+    background: linear-gradient(135deg, rgba(31, 41, 55, 0.8), rgba(0, 0, 0, 0.6));
+  }
+  
+  .section-padding {
+    @apply py-12 md:py-20;
+  }
+  
+  .container-width {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+}
