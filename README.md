@@ -41,7 +41,7 @@
   </tbody>
 </table>
 
-<h3>👉 <a href="https://themixly.com/themes/react-restaurant-cafe-one-page-template/" target="_blank"> Upgrade to Full Version</a></h3>
+<h3>👉 <a href="https://themixly.com/themes/react-restaurant-cafe-one-page-template/" target="_blank"> Upgrade to Pro Version</a></h3>
 
 <h2>🧠 Template Use Cases</h2>
 <p>RestoOne is perfect for:</p>
@@ -117,18 +117,18 @@ npm run build     # Build for production</code></pre>
   <li>✅ MIT License – free for personal and educational use</li>
 </ul>
 <p>🔒 Full features like menu tabs, contact form, and more are available in the premium version.</p>
-<p>👉 <a href="https://themixly.com/themes/react-restaurant-cafe-one-page-template/" target="_blank">Buy Full Version on Themixly →</a></p>
+<p>👉 <a href="https://themixly.com/themes/react-restaurant-cafe-one-page-template/" target="_blank">Buy the Complete Template from Themixly →</a></p>
 
 <h2>📝 License</h2>
 <p>This template is licensed under the <a href="https://github.com/themixlyweb/react-restaurant-website-template/blob/main/LICENSE" target="_blank">MIT License</a>.<br>
 You may use this version for personal and educational purposes.<br>
-👉 For commercial projects, please purchase the <a href="https://themixly.com/themes/react-restaurant-cafe-one-page-template/" target="_blank">full version</a> here.</p>
 
 <h2>📢 Support & Contributions</h2>
 <ul>
   <li>⭐ Star this repo if you find it useful</li>
   <li>Share with developers or restaurant owners</li>
-  <li>👉 Buy the Full Template on <a href="https://themixly.com/themes/react-restaurant-cafe-one-page-template/" target="_blank">Themixly</a></li>
+  <li>Want full features & commercial license</li>
+  <li>👉 Go Premium with <a href="https://themixly.com" target="_blank">Themixly</a></li>
 </ul>
 
 <h2>🔗 Other Templates You May Like</h2>
@@ -140,20 +140,8 @@ You may use this version for personal and educational purposes.<br>
 
 <p>Explore more templates → <a href="https://themixly.com/themes" target="_blank">Themixly Themes</a></p>
 
-<h2>🧾 Contact Us</h2>
-<p>
-  Need support or custom development?<br>
-  📩 <a href="https://themixly.com/contact-us/" target="_blank">Contact Themixly Team</a><br>
-  🔗 Follow us:
-  <a href="https://www.facebook.com/profile.php?id=61576748155161" target="_blank">Facebook</a> |
-  <a href="https://www.instagram.com/themixly/" target="_blank">Instagram</a> |
-  <a href="https://www.linkedin.com/showcase/themixly" target="_blank">LinkedIn</a> |
-  <a href="https://www.pinterest.com/Themixly" target="_blank">Pinterest</a> |
-  <a href="https://www.youtube.com/@Thmixly" target="_blank">YouTube</a>
-</p>
-
 <footer>
-  © 2025 <a href="https://themixly.com/" target="_blank">Themixly</a>. All rights reserved. | Built with ❤️ for developers & designers.
+  © 2025 Themixly. All rights reserved. | Built with ❤️ for developers & designers.
 </footer>
 
 </body>
